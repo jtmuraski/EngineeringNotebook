@@ -1,0 +1,3 @@
+- **Component:** A individual object that can be rendered in HTML. Can be either a function or a class, but a function is most often used
+- **Hook**: 
+- 
