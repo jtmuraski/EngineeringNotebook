@@ -1,2 +1,6 @@
 - **ECMA Script:** This is the offical committee that realeases yearly updates and guidellines for the javascript language. The releasess are noted as ES + Year of Release (ES2019)
-- 
+- **Argument:** A value that we pass to a function that is being invoked
+- **Parameter:** A value that has been passed thorugh to and recieved by a function
+- **Block:** The code that is written between a set of {} braces
+- **Function Expression:** DEfine a function and assign it to a variable
+- **Immediatly INvoked:** Invoking the function right away whwere it's defined
