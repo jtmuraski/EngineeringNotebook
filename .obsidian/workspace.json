@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8e5a4e41cb50df4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/React/1. Getting Started - Creating a React App.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5f94ec8160ad057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/React/2 - Designing Components.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "535973c74f1f174a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/React/Best Practices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/React/Sample Code/Github App Practice.md",
+                "file": "Javascript/React/Best Practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/React/Sample Code/Github App Practice.md",
+                "file": "Javascript/React/Best Practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/React/Sample Code/Github App Practice.md"
+                "file": "Javascript/React/Best Practices.md"
               }
             }
           }
@@ -159,8 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d4b3353e83a445a",
+  "active": "535973c74f1f174a",
   "lastOpenFiles": [
+    "Javascript/React/2 - Designing Components.md",
+    "Javascript/React/1. Getting Started - Creating a React App.md",
+    "Javascript/React/Sample Code/Github App Practice.md",
     "Javascript/React/Sample Code/Getting Started.md",
     "Javascript/React/React Glossary of Terms.md",
     "Getting Started.md",

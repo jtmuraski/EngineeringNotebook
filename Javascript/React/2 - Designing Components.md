@@ -1,0 +1,2 @@
+- React is based on using a system of rendered components on a web page using javascript instead of pure HTML
+- 
