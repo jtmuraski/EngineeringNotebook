@@ -1,0 +1,3 @@
+- *JRE*: Java Runtime Environment. This enable sht eJava code to execute. When the code is compiled, the end product does not contain the code, instead it contains byte codes, which need to be translated
+- **JDK:** Java Devlopment Kit. Provides the tools to create Java applications. This is offered by Oracle, but there is also an OpenJDK that is available, with the only big difference being the license
+- 

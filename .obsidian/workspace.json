@@ -54,9 +54,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bbd57af8406d951c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Glossary of Terms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e0235fdcafe94e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Core Java/Java Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4ad0a2dd508651e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Core Java/Java Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -122,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Core/3 - Functions.md",
+                "file": "Java/Core Java/Java Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Core/3 - Functions.md",
+                "file": "Java/Core Java/Java Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Core/3 - Functions.md"
+                "file": "Java/Core Java/Java Basics.md"
               }
             }
           }
@@ -183,17 +219,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f284b23b4fd68a98",
+  "active": "b4ad0a2dd508651e",
   "lastOpenFiles": [
-    "Javascript/Core/JS Glossary of Terms.md",
+    "Java/Core Java/Untitled.md",
+    "Java/Core Java/Java Basics.md",
+    "Java/Glossary of Terms.md",
     "Javascript/Core/3 - Functions.md",
+    "Javascript/Core/JS Glossary of Terms.md",
     "Javascript/Core/JS Fundamentals.md",
     "Javascript/Core/Interview Questions.md",
     "Javascript/React/Sample Code/Github App Practice.md",
     "Javascript/React/Sample Code/Getting Started.md",
-    "Javascript/React/React 101.md",
-    "Javascript/React/React Glossary of Terms.md",
-    "Getting Started.md",
-    "Interview Prep/Interview Question Preop.md"
+    "Javascript/React/React 101.md"
   ]
 }
