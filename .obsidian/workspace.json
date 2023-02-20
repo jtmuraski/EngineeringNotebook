@@ -32,24 +32,24 @@
             }
           },
           {
-            "id": "a61972ef5442557b",
+            "id": "b8e5a4e41cb50df4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Core/JS Fundamentals.md",
+                "file": "Javascript/React/1. Getting Started - Creating a React App.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f284b23b4fd68a98",
+            "id": "a5f94ec8160ad057",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Core/3 - Functions.md",
+                "file": "Javascript/React/2 - Designing Components.md",
                 "mode": "source",
                 "source": false
               }
