@@ -1,2 +1,4 @@
 - React is based on using a system of rendered components on a web page using javascript instead of pure HTML
+- When building components, components should be built down to the lowest level possible (If a component can be broken down to two or more components, then it should be)
+- Easy way to refactor or split one component into multiple components, is to work from the inside out => start with the innermost div and work your way out to the larger container
 - 
