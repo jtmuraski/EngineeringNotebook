@@ -56,7 +56,12 @@
 ##### System.Diagnostics.Debug and Trace Listeners
 - This allows you to write messages while the app is in deb mode
 - There are several Write methods, including a WriteLineIf that will only write if a conditional is met
-- 
+- Debug.Write methods are removed from released code, so it only appears in the Dev builds
+- Configure the Trace Listener:
+	- Can create a ConfigureTraceListeners class
+	- ![[Pasted image 20230310112131.png]]
+	- ![[Pasted image 20230310112200.png]]
+	- 
 
 
 #### An Effective Approach to Debugging
