@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5899b7e376a428f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/1 - EC2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "12390a4492037b96",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,9 +148,9 @@
   },
   "active": "12390a4492037b96",
   "lastOpenFiles": [
-    "AWS/Glossary.md",
-    "AWS/2 - ELB + ASG.md",
     "AWS/1 - EC2.md",
+    "AWS/2 - ELB + ASG.md",
+    "AWS/Glossary.md",
     "Java/Core Java/Java Basics.md",
     "CSharp_ASP.NET/CSharp10/Debugging.md",
     "CSharp_ASP.NET/Blazor",
