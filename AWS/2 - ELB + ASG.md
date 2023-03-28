@@ -1,6 +1,10 @@
 ELB = Elastic Load Balancer
 ASG = Auto Scaling Group
 
+#### PDF Insert and Slides
+
+![[Autoscaling and EBS Slides.pdf]]
+
 ### Load Balancing
 - Load balancing are servers that forward traffic to multiple servers downstream
 - This spreads the traffic load from multiple users to multiple backends, without the user even knowing or seeing a performance drop
