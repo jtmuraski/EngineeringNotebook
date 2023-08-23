@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12390a4492037b96",
+            "id": "ca1769c3ac745e90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/2 - ELB + ASG.md",
+                "file": "Git/Git Keywords.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,12 +64,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "3636eb77eca99542",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 275.5
   },
   "right": {
     "id": "b794cdfeb8f3ecb5",
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/2 - ELB + ASG.md",
+                "file": "Git/Git Keywords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/2 - ELB + ASG.md",
+                "file": "Git/Git Keywords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +133,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/2 - ELB + ASG.md"
+                "file": "Git/Git Keywords.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,21 +155,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12390a4492037b96",
+  "active": "ca1769c3ac745e90",
   "lastOpenFiles": [
-    "Attachments/Autoscaling and EBS Slides.pdf",
+    "CSharp_ASP.NET/CSharp10/DataTypes/Tuples.md",
+    "Git/Git Keywords.md",
+    "Git",
+    "CSharp_ASP.NET/ASP NET Core",
+    "CSharp_ASP.NET/Keywords/yield.md",
+    "CSharp_ASP.NET/CSharp10/DataTypes",
+    "CSharp_ASP.NET/CSharp10/DataTypes.md",
+    "CSharp_ASP.NET/CSharp10/Collections And Generics/Lists And Arrays.md",
+    "Web Dev (HTML CSS)/CSS/Selectors.md",
+    "Web Dev (HTML CSS)/CSS/Videos.md",
+    "[(3).md",
+    "Code Samples/CSharp.md",
     "CSharp_ASP.NET/Things to Dive Deeper Into.md",
-    "Attachments/Pasted image 20230310112200.png",
-    "Attachments/Pasted image 20230310112131.png",
+    "Getting Started.md",
+    "Web Dev (HTML CSS)/CSS",
+    "README.md",
+    "CSharp_ASP.NET/Useful Youtube Vidseos.md",
+    "Code Samples/SQL Queries.md",
+    "Code Challenges/Implement Fisher Yates Shuffling algortihm.md",
     "AWS/1 - EC2.md",
     "AWS/2 - ELB + ASG.md",
+    "CSharp_ASP.NET/CSharp10/Collections and Generics.md",
+    "CSharp_ASP.NET/CSharp10/Collections And Generics",
+    "Code Challenges",
+    "Algorithms/Fisher Yates Shuffle Algorithm.md",
+    "Algorithms",
+    "CSharp_ASP.NET/CSharp Keywords.md",
+    "CSharp_ASP.NET/Keywords",
+    "Attachments/Pasted image 20230428132354.png",
+    "CSharp_ASP.NET/CSharp10/Debugging.md",
+    "CSharp_ASP.NET/CSharp10/Error Handling.md",
+    "Code Samples",
+    "Attachments/Autoscaling and EBS Slides.pdf",
+    "Attachments/Pasted image 20230310112200.png",
+    "Attachments/Pasted image 20230310112131.png",
     "AWS/Glossary.md",
     "Java/Core Java/Java Basics.md",
-    "CSharp_ASP.NET/CSharp10/Debugging.md",
-    "CSharp_ASP.NET/Blazor",
-    "CSharp_ASP.NET/CSharp10",
-    "Javascript/React/Sample Code/Getting Started.md",
-    "Javascript/React/2 - Designing Components.md",
-    "Java/Glossary of Terms.md"
+    "Web Dev (HTML CSS)/Javascript/React/Sample Code/Getting Started.md",
+    "Web Dev (HTML CSS)/Javascript/React/2 - Designing Components.md"
   ]
 }
