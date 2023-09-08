@@ -1,0 +1,8 @@
+- Git is a decentralized source control system
+	- This means that the source code is hosted on a server, but each user gets a fully copy of the code
+- Github is a Git client/server (it is not Git itself). Github is like a garage and your code are the cars that you park in the garage
+- GIt maintains a history of files and all of the changes that occur with those files - every file addition, deletion and character change.
+	- NOTE: You can delete files in a Git source control system, but that file will be stored in the history of the source control, and can come back by reverting to a previous version. You can permanently delete that file, but you in essence have to "rewrite history"
+- The most popular source control system on the planet
+- Git can be installed from the website: [Git (git-scm.com)](https://git-scm.com/)
+- 

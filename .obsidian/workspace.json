@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git Keywords.md",
+                "file": "Git/Command Line.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b794cdfeb8f3ecb5",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git Keywords.md",
+                "file": "Git/Command Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Git Keywords.md",
+                "file": "Git/Command Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git Keywords.md"
+                "file": "Git/Command Line.md"
               }
             }
           }
@@ -157,28 +158,34 @@
   },
   "active": "ca1769c3ac745e90",
   "lastOpenFiles": [
-    "CSharp_ASP.NET/CSharp10/DataTypes/Tuples.md",
+    "Attachments/Pasted image 20230907230013.png",
+    "Git/Git Overview.md",
+    "Git/Command Line.md",
     "Git/Git Keywords.md",
+    "CSharp_ASP.NET/Useful Youtube Vidseos.md",
+    "CSharp_ASP.NET/Things to Dive Deeper Into.md",
+    "CSharp_ASP.NET/Keywords/yield.md",
+    "CSharp_ASP.NET/CSharp10/Error Handling.md",
+    "CSharp_ASP.NET/CSharp10/DataTypes/Tuples.md",
+    "Code Challenges/Implement Fisher Yates Shuffling algortihm.md",
+    "Web Dev (HTML CSS)/Javascript/Core/Interview Questions.md",
+    "Interview Prep/Interview Question Preop.md",
+    "AWS/2 - ELB + ASG.md",
+    "AWS/1 - EC2.md",
+    "CSharp_ASP.NET/CSharp10/Collections And Generics/Lists And Arrays.md",
+    "CSharp_ASP.NET/CSharp10/Collections and Generics.md",
     "Git",
     "CSharp_ASP.NET/ASP NET Core",
-    "CSharp_ASP.NET/Keywords/yield.md",
     "CSharp_ASP.NET/CSharp10/DataTypes",
     "CSharp_ASP.NET/CSharp10/DataTypes.md",
-    "CSharp_ASP.NET/CSharp10/Collections And Generics/Lists And Arrays.md",
     "Web Dev (HTML CSS)/CSS/Selectors.md",
     "Web Dev (HTML CSS)/CSS/Videos.md",
     "[(3).md",
     "Code Samples/CSharp.md",
-    "CSharp_ASP.NET/Things to Dive Deeper Into.md",
     "Getting Started.md",
     "Web Dev (HTML CSS)/CSS",
     "README.md",
-    "CSharp_ASP.NET/Useful Youtube Vidseos.md",
     "Code Samples/SQL Queries.md",
-    "Code Challenges/Implement Fisher Yates Shuffling algortihm.md",
-    "AWS/1 - EC2.md",
-    "AWS/2 - ELB + ASG.md",
-    "CSharp_ASP.NET/CSharp10/Collections and Generics.md",
     "CSharp_ASP.NET/CSharp10/Collections And Generics",
     "Code Challenges",
     "Algorithms/Fisher Yates Shuffle Algorithm.md",
@@ -186,15 +193,9 @@
     "CSharp_ASP.NET/CSharp Keywords.md",
     "CSharp_ASP.NET/Keywords",
     "Attachments/Pasted image 20230428132354.png",
-    "CSharp_ASP.NET/CSharp10/Debugging.md",
-    "CSharp_ASP.NET/CSharp10/Error Handling.md",
     "Code Samples",
     "Attachments/Autoscaling and EBS Slides.pdf",
     "Attachments/Pasted image 20230310112200.png",
-    "Attachments/Pasted image 20230310112131.png",
-    "AWS/Glossary.md",
-    "Java/Core Java/Java Basics.md",
-    "Web Dev (HTML CSS)/Javascript/React/Sample Code/Getting Started.md",
-    "Web Dev (HTML CSS)/Javascript/React/2 - Designing Components.md"
+    "Attachments/Pasted image 20230310112131.png"
   ]
 }
